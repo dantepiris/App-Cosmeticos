@@ -1,9 +1,12 @@
 # App-Cosmeticos
 Una app web de un local o empresa que se dedica a vender cosméticos, maquillaje o accesorios.
 
-DETALLES:
+DETALLES: 
+
 -Proyecto personal.
+
 -Manejo de json y LocalStorage.
+
 -Html, css y javaScript.
 
 MECANICAS:
